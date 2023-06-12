@@ -6,7 +6,7 @@ Description:
 This project is a simple web application that generates a random meme each time the user clicks a button. The application is built using HTML, CSS, and JavaScript, and uses the Meme API to fetch a random meme from a database of popular memes.
 
 Credits
-This project was created by [Your Name], as part of [Your Organization or School] project. Special thanks to [Any person or resources you want to thank].
+This project was created by Me, as part of practice project.
 
 License
 This project is licensed under the MIT License.
